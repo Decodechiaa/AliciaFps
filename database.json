@@ -1,0 +1,95 @@
+{
+  "allowedIps": ["172.18.0.112","188.114.96.2","172.18.0.111"],
+  "users": [
+    {
+      "username": "Xyroo",
+      "password": "XyrooTheDevelopment",
+      "expires": "2025-11-10T12:00:00.000Z"
+     },
+     {
+      "username": "ripki",
+      "password": "ripki001",
+      "expires": "2025-11-10T12:00:00.000Z"
+     },
+     {
+      "username": "naofumi",
+      "password": "naofumi001",
+      "expires": "2025-11-10T12:00:00.000Z"
+      },
+     {
+      "username": "xyro",
+      "password": "xyro",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "Yudira",
+      "password": "Yudira123",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "nuuu444",
+      "password": "nuu909",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "cmsd",
+      "password": "cmsd",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "garuda",
+      "password": "garuda",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "mussx",
+      "password": "mussx",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "zalimutsekali",
+      "password": "zalimutsekali292292",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "darel",
+      "password": "darel",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "dikzz",
+      "password": "anomalipembaik",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "kiyy",
+      "password": "kiyy01",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "kyuzuu",
+      "password": "kyuzuu21",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "anggit",
+      "password": "bocahtengil",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "ryu",
+      "password": "ryu11",
+      "expires": "2025-11-10T12:00:00.000Z"  
+       },
+     {
+      "username": "awalmo",
+      "password": "awalmo123",
+      "expires": "2025-11-10T12:00:00.000Z" 
+       },
+     {
+      "username": "bangnugro",
+      "password": "bangnugro@1243",
+      "expires": "2025-11-10T12:00:00.000Z" 
+    }
+  ]
+}
